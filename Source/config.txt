@@ -1,0 +1,8 @@
+hostName linux-mail
+channelName #Testing
+botName BuildBot3
+pollTime 30
+feedUrl http://dev-build/guestAuth/feed.html?projectId=Librarian&itemsType=builds&buildStatus=successful&buildStatus=failed&userKey=guest
+restUrl http://dev-build/httpAuth/app/rest
+restUser 
+restPassword 

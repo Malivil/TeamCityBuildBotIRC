@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: lib/dom4j-1.6.1.jar lib/feed4j.jar lib/nekohtml.jar lib/pi
+ rcbot.jar lib/sqlite-jdbc-3.7.2.jar lib/xercesImpl.jar lib/xml-apis.j
+ ar lib/log4j-api-2.0.2.jar lib/log4j-core-2.0.2.jar log4j2.xml
+Main-Class: buildbot.BuildBotMain
+
